@@ -1,0 +1,51 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: transparent;
+}
+
+.info{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: transparent;
+    padding: 25px;
+    box-shadow: 10px 10px;
+    
+}
+
+.Escola{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: transparent;
+    padding: 25px;
+    box-shadow: 10px 10px;
+}
+
+.qualita{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: transparent;
+    padding: 25px;
+    box-shadow: 10px 10px;
+    
+}
+
+.objetivos{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: transparent;
+    padding: 25px;
+    box-shadow: 10px 10px;
+    
+    
+}
+
+.Links{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    background-color: transparent;
+    padding: 25px;
+    box-shadow: 10px 10px;
+}
